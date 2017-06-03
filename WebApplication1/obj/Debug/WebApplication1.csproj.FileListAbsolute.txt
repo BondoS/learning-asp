@@ -56,3 +56,4 @@ C:\Users\AbdelRahman Serag\Documents\Visual Studio 2013\Projects\WebApplication1
 C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.InitialModel.resources
 C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.Cache
 C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.AddMembershipType.resources

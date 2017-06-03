@@ -11,5 +11,7 @@ namespace WebApplication1.Models
         public string Name { get; set; }
 
         public bool IsSubscribedToNewsletter { get; set; }
+        public MembershipType MembershipType { get; set; }
+        public byte MembershipTypeId { get; set; }
     }
 }
