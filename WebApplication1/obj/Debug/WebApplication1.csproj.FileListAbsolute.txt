@@ -59,3 +59,4 @@ C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1
 C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.AddMembershipType.resources
 C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.PopulateMembershipTypes.resources
 C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\AbdelRahman Serag\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.AddNameToMembershipType.resources
