@@ -189,9 +189,26 @@
     <Compile Include="Migrations\201706031924068_AddNameToMembershipType.Designer.cs">
       <DependentUpon>201706031924068_AddNameToMembershipType.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201706031935445_SetNameOfMembershipTypes.cs" />
+    <Compile Include="Migrations\201706031935445_SetNameOfMembershipTypes.Designer.cs">
+      <DependentUpon>201706031935445_SetNameOfMembershipTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706032016361_AddBirthdateToCustomer.cs" />
+    <Compile Include="Migrations\201706032016361_AddBirthdateToCustomer.Designer.cs">
+      <DependentUpon>201706032016361_AddBirthdateToCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706032134489_AddMovieAndGenreEntities.cs" />
+    <Compile Include="Migrations\201706032134489_AddMovieAndGenreEntities.Designer.cs">
+      <DependentUpon>201706032134489_AddMovieAndGenreEntities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706032139021_populateGenres.cs" />
+    <Compile Include="Migrations\201706032139021_populateGenres.Designer.cs">
+      <DependentUpon>201706032139021_populateGenres.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
     <Compile Include="Models\Movie.cs" />
@@ -253,6 +270,8 @@
     <Content Include="Views\Shared\_NavBar.cshtml" />
     <Content Include="Views\Customers\Index.cshtml" />
     <Content Include="Views\Customers\Details.cshtml" />
+    <Content Include="Views\Movies\Index.cshtml" />
+    <Content Include="Views\Movies\Details.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -280,6 +299,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201706031924068_AddNameToMembershipType.resx">
       <DependentUpon>201706031924068_AddNameToMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706031935445_SetNameOfMembershipTypes.resx">
+      <DependentUpon>201706031935445_SetNameOfMembershipTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706032016361_AddBirthdateToCustomer.resx">
+      <DependentUpon>201706032016361_AddBirthdateToCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706032134489_AddMovieAndGenreEntities.resx">
+      <DependentUpon>201706032134489_AddMovieAndGenreEntities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706032139021_populateGenres.resx">
+      <DependentUpon>201706032139021_populateGenres.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
